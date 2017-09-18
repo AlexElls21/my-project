@@ -1,0 +1,22 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+    
+}
+
+.movie-img img{
+    border-radius: 25px;
+    box-shadow: 10px 10px 5px grey;
+    
+}
+
+.rating {
+
+}
+
+.movie-overview {
+    width: 60vw;
+    font-family: fantasy;
+}
